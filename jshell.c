@@ -5,8 +5,10 @@ using namespace std;
 
 int main(int argc,char *argv)
 {
-
-	println("updated program!");
+	while(1){
+	
+		println("updated program!");
+	}
 	return 0;
 
 
