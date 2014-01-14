@@ -6,7 +6,7 @@ using namespace std;
 int main(int argc,char *argv)
 {
 
-	println("new program!");
+	println("updated program!");
 	return 0;
 
 
